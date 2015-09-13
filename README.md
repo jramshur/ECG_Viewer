@@ -24,7 +24,7 @@ ECG Viewer is a Matlab GUI for reviewing, processing, and annotating electrocard
 [ecg]: https://github.com/jramshur/ECG_Viewer/wiki/ECG-Filtering
 [beat]: https://github.com/jramshur/ECG_Viewer/wiki/Beat-Detection
 [ibi]: https://github.com/jramshur/ECG_Viewer/wiki/IBI-Filtering
-[ana]: https://github.com/jramshur/ECG_Viewer/wiki/Annotation-Database
+[ann]: https://github.com/jramshur/ECG_Viewer/wiki/Annotation-Database
 
 ## Contact Info
 
@@ -37,7 +37,7 @@ Blog: [http://www.johnramshur.com](http://www.johnramshur.com)
 
 Joint Program in Biomedical Engineering  
 [University of Memphis](http://www.memphis.edu/bme/)  
-[University of Tennessee Health Science Center](http://www.uthsc.edu/bme/)
+[University of Tennessee Health Science Center](http://www.uthsc.edu/bme/)  
 Advisor: Amy de Jongh Curry, PhD
 
 ## License
