@@ -1,0 +1,48 @@
+Update Log: Log file of changes made between versions
+
+Version: 1.1.5 - 3/31/09
+    1. error using skip to next when nOutliers was zero.
+    2. Added an option to replace NaN values in ecg with zeros.
+         Reduced large segments missing after using fast smooth.
+Version: 1.1.7 - 6/25/09
+    1. Fixed various simple GUI bugs
+    2. Added a checkbox option to define custom ECG segment length.
+          This allows users to define what section of the file to read.
+    3. Fixed a bug that occured when exporting IBI using "current window".
+
+Version: 1.1.8 - 10/04/09   	
+    1. Added a feature to save annotions to Access database
+
+Version: 1.1.9 - 3/22/2010
+    1. Added feature to change colors of files in list. File name will be red if they
+         have been marked as complete in the database.
+    2. Added feature to view annotions within GUI
+
+Version: 1.1.10 - 8/05/2010
+    1. Added feature to disable annotion features if databaee toolbox isn't installed.
+    2. Changed how the fxn auto starts matlab pool
+ 
+Version: 1.1.11 - 9/02/2010
+    1. Fixed issue with default template file name
+
+Version: 1.1.12 - 9/13/2010
+    1. Fixed issue with loading ecg from user created .mat files
+
+Version: 1.2.0 - 10/14/2010
+    1. Fixed issue with loading ecg from user created .mat files
+    2. Added more error handleing code.
+    3. Added support for ASCII ECG files.
+    4. Added leftarrow and rightarrow shortcut keys.
+    5. Rearanged some GUI controls
+    6. Added user input to the GUI for ECG sample rate.
+
+Version: 1.2.1 - 10/14/2010
+    1. Added code to handle erros when using mexw32 files on 64bit MATLAB.
+    2. Updated matchTemplate.m with a method to computer correlation using cov function.
+
+Version: 1.2.2 - 10/21/2010 (very minor changes)
+    1. Changed some labels on the GUI: "Preview" to "Open ECG", "Window Size" to "Zoom".
+    2. Fixed bug with default directory and default template file.
+
+Version: 1.2.3 - 7/2/2012 (very minor changes)
+    1. Added code to autodetect sample rate if ecg file contains time data.
