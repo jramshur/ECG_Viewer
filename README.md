@@ -4,7 +4,7 @@ ECG Viewer is a Matlab GUI for reviewing, processing, and annotating electrocard
 
 ECG Viewer was orignally hosted at Sourceforge.com were it has been downloaded more than 15,000 times.  [http://sourceforge.net/projects/ecgviewer/](http://sourceforge.net/projects/ecgviewer/)
 
-![](https://raw.githubusercontent.com/wiki/jramshur/ECG_Viewer/images/ECG_Viewer.png)
+![](http://johnramshur.com/wp-content/uploads/2013/11/ECGViewer_Manual-PDF-XChange-Viewer_2013-11-03_01-48-39.png)
 
 ## Wiki Navigation
 
